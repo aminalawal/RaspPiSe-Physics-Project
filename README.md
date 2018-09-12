@@ -11,4 +11,4 @@ We used the Raspberry Pi and SenseHat to carryout few physics experiments to ena
 With the built-in temperature and pressure sensors, you will be able to demonstrate Gay-Lussac’s law. Gay-Lussac’s shows the relationship between the pressure and temperature of a fixed mass of gas kept at a constant volume.
 
 #### Simple harmonic motion Experiment
-Simple harmonic motion occurs when the force on an object is proportional and in the opposite direction to the displacement of the object. Examples include masses on springs and pendula, which 'bounce' back and forth repeatedly
+Simple harmonic motion occurs when the force on an object is proportional and in the opposite direction to the displacement of the object. Examples include masses on springs and pendula, which 'bounce' back and forth repeatedly.
